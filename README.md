@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanejanikhil3638.github.io/portfolio/](https://tanejanikhil3638.github.io/portfolio/)
 
-- 📫 How to reach me **nikhiltaneja820@gmail.com**
+- 📫 How to reach me **ntaneja_be21@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
