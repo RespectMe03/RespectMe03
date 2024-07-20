@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Taneja</h1>
-<h3 align="center">I am coding enthusiast.</h3>
+<h3 align="center">I am coding and stock market enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanejanikhil3638&label=Profile%20views&color=0e75b6&style=flat" alt="tanejanikhil3638" /> </p>
 
